@@ -32,7 +32,7 @@ A full-fledged Python-based Airport Management System using **Tkinter GUI**, **M
 
 1. Clone the Repository
 
-git clone https://github.com/yourusername/airport-management-system.git
+git clone https://github.com/URBANDUST/airportmanagement.git
 cd airport-management-system
 
 
